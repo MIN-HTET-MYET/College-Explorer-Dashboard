@@ -1,4 +1,4 @@
-# 🪄 Fabricland College Insights Dashboard
+# Fabricland College Insights Dashboard
 
 ## 📖 Story  
 In the magical realm of **Fabricland**, young wizards and heroes are preparing to choose their future colleges.  
